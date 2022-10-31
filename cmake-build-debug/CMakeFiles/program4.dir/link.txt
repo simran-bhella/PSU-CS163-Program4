@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/program4.dir/main.cpp.o CMakeFiles/program4.dir/tree.cpp.o  -o program4 

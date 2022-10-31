@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Development/CS163/program4/tree.cpp
+tree.h
+/mnt/d/Development/CS163/program4/tree.h
+
+/mnt/d/Development/CS163/program4/tree.h
+iostream
+-
+cctype
+-
+cstring
+-
+
